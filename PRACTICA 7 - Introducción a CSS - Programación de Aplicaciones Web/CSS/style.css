@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#FrontEnd-Banner{
+    width: 600px;
+    height: 200px;
+    padding-left: 285px;
+}
+
+#HTML-Banner{
+    width: 600px;
+    height: 200px;
+    padding-left: 285px;
+}
+
+body{
+    background-color: #f7a94d;
+}
+
+table{
+    width: 100%;
+    background-color: #f8c07e;
+}
+
+td{
+    vertical-align: top;
+
+}
+
+
+ul li{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;/*tipo de letra*/
+font-size: 22px; /*tamaño de letra*/
+height: 60px; /*altura de cada opción de la lista*/
+}
+
+
+ul li a{
+    height: 60px; /*altura*/
+    background-color: #c5a379; /*color de fondo*/
+    display: block;
+    border-left: 10px solid blue;
+    border-right: 5px solid green;
+    padding-left: 15px; /*separacion izquierda de texto*/
+    text-decoration: none; 
+    color: blueviolet;
+}
+
+div{
+    color:  black; /*color del texto*/
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border:1px solid #999999;
+    background-color: #c5a379;
+    border-radius: 15px;
+    border: solid 2px #999999;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #C0C2C3;
+}
